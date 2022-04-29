@@ -5,6 +5,7 @@
 This is a SPFx React Template with the following packages installed.
 
 +-- @fortawesome/fontawesome-svg-core@6.1.1
+
 +-- @fortawesome/free-solid-svg-icons@6.1.1
 +-- @fortawesome/react-fontawesome@0.1.18
 +-- @microsoft/mgt@2.4.0
