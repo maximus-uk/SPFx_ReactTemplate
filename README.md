@@ -2,7 +2,40 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This is a SPFx React Template with the following packages installed.
+
++-- @fortawesome/fontawesome-svg-core@6.1.1
++-- @fortawesome/free-solid-svg-icons@6.1.1
++-- @fortawesome/react-fontawesome@0.1.18
++-- @microsoft/mgt@2.4.0
++-- @microsoft/mgt-react@2.4.0
++-- @microsoft/rush-stack-compiler-3.9@0.4.47
++-- @microsoft/sp-build-web@1.13.1
++-- @microsoft/sp-core-library@1.13.1
++-- @microsoft/sp-lodash-subset@1.13.1
++-- @microsoft/sp-module-interfaces@1.13.1
++-- @microsoft/sp-office-ui-fabric-core@1.13.1
++-- @microsoft/sp-property-pane@1.13.1
++-- @microsoft/sp-tslint-rules@1.13.1
++-- @microsoft/sp-webpart-base@1.13.1
++-- @pnp/common@1.3.11
++-- @pnp/logging@1.3.11
++-- @pnp/odata@1.3.11
++-- @pnp/sp@1.3.11
++-- @pnp/sp-clientsvc@1.3.11
++-- @pnp/sp-taxonomy@1.3.11
++-- @types/bootstrap@5.1.10
++-- @types/jquery@3.5.14
++-- @types/react@16.9.51
++-- @types/react-dom@16.9.8
++-- @types/webpack-env@1.13.1
++-- ajv@5.2.5
++-- bootstrap@5.1.3
++-- gulp@4.0.2
++-- jquery@3.6.0
++-- office-ui-fabric-react@7.174.1
++-- react@16.13.1
+`-- react-dom@16.13.1
 
 [picture of the solution in action, if possible]
 
